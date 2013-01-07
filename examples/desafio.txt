@@ -1,0 +1,49 @@
+Cantar ao desafio
+=
+e1=
+v1=
+1 tiritiritiri tim
+2 tiritiritiri tam
+
+v2=
+2 tiritiritiri tim
+1 tiritiritiri tam
+
++v2
+
++v1
+=
+v3=
+1 Não sei como aquilo foi
+1 Engano assim até doi
+2 Com vinho eu cá disparato
+2 Confuso como um sapato
+2 Cum raio dum carrapato
+3 Aquilo cheira-me a esturro
+
+fui um dia a uma feira
+voltava eu do mercado
+vindo de regresso a casa
+na feira de Montemor
+fui à feira a Barcelos
+
++v3
+
++v3
+
+1 Comprei um cavalo malhado
+1 Comprei uma vaca leiteira
+2 Trazia uma lebre matreira
+2 Vinha com uma xibinha
+3 Comprei um cavalo ao cigano
+3 Comprei uma égua andaluza
+3 Comprei um boi barrosão
+
+1 Chegante a casa era um boi
+2 Chegante a casa era um gato
+2 Chegante à quinta era um pato
+3 Chegante a casa era um burro
+=
++e1
+=
+Popular Minhoto

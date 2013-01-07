@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+
+use strict;
+use Lingua::MPoem;
+binmode(STDOUT,":utf8");
+
+#my $file = Lingua::MPoem::_choice(@ARGV);
+#my $txt = Lingua::MPoem::_fileread($file);
+print Lingua::MPoem::generate([@ARGV]);
+

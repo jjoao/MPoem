@@ -1,0 +1,17 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Lingua/MPoem.pm
+t/00-load.t
+t/manifest.t
+t/01-generate.t
+t/02-refrain.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
+bin/poeta
+examples/desafio.txt
+examples/mais_vale.txt
+examples/penso.txt
+examples/SONETO15.txt
