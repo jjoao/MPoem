@@ -1,4 +1,5 @@
 MPoem
 =====
 
-Poem generation
+Poem generation tool 
+
